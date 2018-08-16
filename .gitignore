@@ -1,0 +1,56 @@
+node_modules/
+.vscode/
+.expo/
+npm-debug.*
+
+# OSX
+#
+.DS_Store
+
+# Android/IntelliJ
+android/
+#
+build/
+.idea
+.tmp
+.gradle
+local.properties
+*.iml
+
+# Web container Wips
+src/containers/ForgotPassword.js
+src/containers/Locale.js
+src/containers/Login.js
+src/containers/Member.js
+src/containers/Signup.js
+src/containers/Todos.js
+src/containers/UpdateProfile.js
+
+# Web component Wips
+src/web/components/ForgotPassword.js
+src/web/components/Login.js
+src/web/components/Signup.js
+src/web/components/Todo.js
+src/web/components/Todos.js
+src/web/components/UpdateProfile.js
+
+# Native component Wips
+src/native/components/ForgotPassword.js
+src/native/components/Login.js
+src/native/components/Locale.js
+src/native/components/Profile.js
+src/native/components/Signup.js
+src/native/components/Todo.js
+src/native/components/Todos.js
+src/native/components/UpdateProfile.js
+
+# Model Wips
+
+# Observable Wips
+src/observables/_*.js
+
+# Rection Wips
+src/reactions/*.js
+
+# Docs Wips
+docs/_*.md

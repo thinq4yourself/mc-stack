@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "MC2 Serverless Client App",
+    "slug": "mc2-serverless-client-app",
+    "icon": "src/images/app-icon.png",
+    "privacy": "public"
+  }
+}
